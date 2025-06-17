@@ -1,3 +1,3 @@
 # python automation
 
-Training course
+python automation training course 
